@@ -1,0 +1,22 @@
+{
+  "name": "simple_concat_audio",
+  "version": "1.0.0",
+  "description": "simple concat / combine audio file using ffmpeg",
+  "homepage": "https://github.com/afifudinmtop/simple_concat_audio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "audio",
+    "concat",
+    "ffmpeg",
+    "concat audio"
+  ],
+  "author": "Afifudin Ma'arif",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afifudinmtop/simple_concat_audio.git"
+  }
+}
