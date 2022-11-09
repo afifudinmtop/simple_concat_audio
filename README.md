@@ -26,8 +26,8 @@ npm install && node test.js
 ```jsx
 const simple_concat_audio = require("simple_concat_audio");
 
-const input = ["./audio/1.mp3", "./audio/2.mp3", "./audio/3.mp3"];
-const output = "./audio/output.mp3";
+const input = ["./1.mp3", "./2.mp3", "./3.mp3"];
+const output = "./output.mp3";
 
 simple_concat_audio.concat(input, output);
 
